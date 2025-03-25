@@ -5,4 +5,3 @@ Source Code: Provided in the code.zip archive, implemented using the mmdet frame
 
 Dataset: Currently being organized and will be uploaded to this repository in the future.
 
-For better clarity and usability, consider expanding the README file with more detailed instructions and guidelines.
